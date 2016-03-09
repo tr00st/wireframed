@@ -4,10 +4,10 @@ A bookmarklet that strips styles down to the least polished look possible (Comic
 ## Building
 (compile.py) is a script that converts the context of (bookmarklet.js) into a bookmarklet. It should support a plain install of Python 2.7+ and 3.0+. Run as below:
 
-$ python compile.py
+`$ python compile.py`
 
 ## Usage
-Add the contents of bookmarklet.js as a bookmark to your toolbar. Find a website, and click it!
+Add the contents of compiled.js as a bookmark to your toolbar. Find a website, and click it!
 
 ## Contributing
 1. Fork it!
