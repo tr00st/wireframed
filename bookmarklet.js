@@ -12,6 +12,7 @@
 input,textarea,select,button,a {\
     border:1px dashed black!important;\
     padding:2px;\
+    margin:-3px;\
 }\
 body,html,div{\
     padding:0;\
