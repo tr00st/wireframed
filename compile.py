@@ -8,7 +8,8 @@ def main():
     bookmarklet_file = open('bookmarklet.js', mode='r')
     bookmarklet = bookmarklet_file.read()
     bookmarklet = "javascript: {}".format(quote(bookmarklet, safe=""))
-    print(bookmarklet)
+    output_file = open('compiled.js', mode='w')
+    output_file.write(bookmarklet)
 
 if __name__ == "__main__":
     main()

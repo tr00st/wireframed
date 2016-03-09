@@ -1,13 +1,1 @@
-begin 666 -
-M:F%V87-C<FEP=#HH"B @("!F=6YC=&EO;B@I('L*(" @(" @("!V87(@<W1Y
-M;&5#4U,](BI[8F%C:V=R;W5N9#IR9V)A*# L,"PP+# N,#(I(6EM<&]R=&%N
-M=#MC;VQO<CIB;&%C:R%I;7!O<G1A;G0[9F]N="UF86UI;'DZ)T-O;6EC(%-A
-M;G,@35,G+$%R:6%L(6EM<&]R=&%N=#MF;VYT+7-I>F4Z,3$P)3MP861D:6YG
-M.C)P>'UI;G!U="QT97AT87)E82QS96QE8W0L8G5T=&]N+&%[8F]R9&5R.C%P
-M>"!D87-H960@8FQA8VLA:6UP;W)T86YT.W!A9&1I;F<Z,G!X.WUB;V1Y+&AT
-M;6PL9&EV>W!A9&1I;F<Z,#MM87)G:6XZ,#M](CL*(" @(" @("!V87(@<W1Y
-M;&5.;V1E/61O8W5M96YT+F-R96%T945L96UE;G0H(G-T>6QE(BD["B @(" @
-M(" @<W1Y;&5.;V1E+FEN;F5R5&5X=#US='EL94-34SL*(" @(" @("!D;V-U
-M;65N="YH96%D+F%P<&5N9$-H:6QD*'-T>6QE3F]D92D["B @("!]"BDH*0H*
- 
-end
+javascript: %28%0A%20%20%20%20function%28%29%20%7B%0A%20%20%20%20%20%20%20%20var%20styleCSS%3D%22%2A%7Bbackground%3Argba%280%2C0%2C0%2C0.02%29%21important%3Bcolor%3Ablack%21important%3Bfont-family%3A%27Comic%20Sans%20MS%27%2CArial%21important%3Bfont-size%3A110%25%3Bpadding%3A2px%7Dinput%2Ctextarea%2Cselect%2Cbutton%2Ca%7Bborder%3A1px%20dashed%20black%21important%3Bpadding%3A2px%3B%7Dbody%2Chtml%2Cdiv%7Bpadding%3A0%3Bmargin%3A0%3B%7D%22%3B%0A%20%20%20%20%20%20%20%20var%20styleNode%3Ddocument.createElement%28%22style%22%29%3B%0A%20%20%20%20%20%20%20%20styleNode.innerText%3DstyleCSS%3B%0A%20%20%20%20%20%20%20%20document.head.appendChild%28styleNode%29%3B%0A%20%20%20%20%7D%0A%29%28%29%0A%0A
