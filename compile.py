@@ -10,6 +10,7 @@ def main():
     bookmarklet = "javascript: {}".format(quote(bookmarklet, safe=""))
     output_file = open('compiled.js', mode='w')
     output_file.write(bookmarklet)
+    print("New bookmarklet output to compiled.js")
 
 if __name__ == "__main__":
     main()
